@@ -16,4 +16,4 @@ Hi, I'm Niklas! I'm an ongoing trainee at Deloitte to become a computer science 
 ![](https://github-profile-trophy.vercel.app/?username=Niklashere&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Niklashere&icon=0&color=0)]
+![](https://visitcount.itsvg.in/api?id=Niklashere&icon=0&color=0)
