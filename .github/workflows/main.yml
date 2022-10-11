@@ -15,3 +15,16 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/account.svg
+
+  historical-contribuitions-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics/contributions.svg
+          config_timezone: Europe/Berlin
+          plugin_calendar: yes
