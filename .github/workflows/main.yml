@@ -26,5 +26,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/contributions.svg
+          template: classic
+          base: ""
           config_timezone: Europe/Berlin
           plugin_calendar: yes
